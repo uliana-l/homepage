@@ -4,3 +4,7 @@
 .contacts li a.twitter:hover {
     color: #29b5d8;
   }
+
+main {
+  background-image: url('./data/background.png');
+}
