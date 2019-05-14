@@ -9,3 +9,6 @@ main {
   background-image: url('./data/background.png');
 }
 
+.avatar {
+  max-width: 12rem;
+}
